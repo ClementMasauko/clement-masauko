@@ -1,16 +1,16 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
+  "versionCode": 5,
+  "versionName": "1.3.1",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Secure administrator, teacher and student academic roles",
-    "Teachers enter marks only for their allocated subjects and classes",
-    "Students see only their own grades; administrators can review all grades but cannot edit marks",
-    "Administrators control marking windows and teacher reopening requests",
-    "First-time teacher allocation and name setup with protected limited access when skipped"
+    "Uploads, timetable editing, allocation management and school tools are administrator-only",
+    "Teachers and students now see a clean personal settings screen",
+    "Term and archive controls are grouped together, with Archive below Term",
+    "Signed-in roles refresh immediately after authentication",
+    "Teachers retain their personal reminders and protected marks workspace"
   ],
-  "sha256": "4D0DC6B6560309A3A3C19E5F7102428CDE4C1391E2CDFF49086658E24CE8F29F",
+  "sha256": "952C5A6ECB147C0857A6290AC1C171A07088D89FD4AA35E54237109527150DAF",
   "publishedAt": "2026-09-20"
 }
