@@ -1,0 +1,15 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "minimumVersionCode": 2,
+  "required": false,
+  "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
+  "notes": [
+    "Initial public TimeKeeper Master release",
+    "Offline timetable and subject-allocation matching",
+    "Teacher, examination and invigilation reminders",
+    "Optional private cloud synchronization"
+  ],
+  "sha256": "27AAA9802308AF048719DE9D999A2C528AA5B304DE0D19EACAB0C0148C160A7D",
+  "publishedAt": "2026-09-20"
+}
