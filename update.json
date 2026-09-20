@@ -1,16 +1,16 @@
 {
-  "versionCode": 6,
-  "versionName": "2.0.0",
+  "versionCode": 7,
+  "versionName": "2.0.1",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Create a secure school or join with a private school code",
-    "Administrator-published timetables and allocations download for offline use",
-    "CSV, Excel and PDF student imports with duplicate protection",
-    "Assessments, locked teacher mark submission, audit history and reopening requests",
-    "Student grades, printable reports, notices, examinations and invigilation duties"
+    "Clearer spacing between dashboard and settings cards",
+    "Professional visual hierarchy for headings and grouped controls",
+    "Improved approval, notice, grade and marking cards",
+    "Better timetable row spacing and mobile responsiveness",
+    "Academic v2 migration parenthesis correction included in source"
   ],
-  "sha256": "50C00D19E6B3C68E725E2D1BD88CC4BB904677AAF92D9D732235ED1F299A728A",
+  "sha256": "4F646356D0F6A1CEC9D2FD455321ABD62BBC659465C5BF05CEDD220F8FD86B6A",
   "publishedAt": "2026-09-20"
 }
