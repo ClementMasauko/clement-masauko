@@ -1,15 +1,16 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.3.0",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Cloud service is preconfigured for every user",
-    "Users only need an email address and password to synchronize",
-    "Technical Supabase setup fields are hidden from ordinary users",
-    "All offline timetable features continue working without an account"
+    "Secure administrator, teacher and student academic roles",
+    "Teachers enter marks only for their allocated subjects and classes",
+    "Students see only their own grades; administrators can review all grades but cannot edit marks",
+    "Administrators control marking windows and teacher reopening requests",
+    "First-time teacher allocation and name setup with protected limited access when skipped"
   ],
-  "sha256": "EBEECA72F7CAD69F25FE5AD1770C1560BEE34F568DC99B3EB3D3891CF513C8FA",
+  "sha256": "4D0DC6B6560309A3A3C19E5F7102428CDE4C1391E2CDFF49086658E24CE8F29F",
   "publishedAt": "2026-09-20"
 }
