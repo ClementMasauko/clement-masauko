@@ -1,16 +1,16 @@
 {
-  "versionCode": 7,
-  "versionName": "2.0.1",
+  "versionCode": 8,
+  "versionName": "2.0.2",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Clearer spacing between dashboard and settings cards",
-    "Professional visual hierarchy for headings and grouped controls",
-    "Improved approval, notice, grade and marking cards",
-    "Better timetable row spacing and mobile responsiveness",
-    "Academic v2 migration parenthesis correction included in source"
+    "Upcoming classes now always show their class or form",
+    "Teacher and class details appear together instead of replacing one another",
+    "Day and time badges remain readable in device-controlled light mode",
+    "Startup screen now uses the professional blue app color",
+    "Sharper native startup mark across Android screen sizes"
   ],
-  "sha256": "4F646356D0F6A1CEC9D2FD455321ABD62BBC659465C5BF05CEDD220F8FD86B6A",
-  "publishedAt": "2026-09-20"
+  "sha256": "DF4160B299E2A97A912309AA55249CCF1AF71C3D3210F8D2C4BA79EA7436C418",
+  "publishedAt": "2026-09-21"
 }
