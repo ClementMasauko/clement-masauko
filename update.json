@@ -1,16 +1,16 @@
 {
-  "versionCode": 9,
-  "versionName": "2.0.3",
+  "versionCode": 10,
+  "versionName": "2.0.4",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "School creation is removed from ordinary user accounts",
-    "New users can only request membership using a private school code",
-    "Teacher and student roles remain subject to administrator approval",
-    "Direct school-creation RPC lockdown script added for Supabase",
-    "Existing administrator and school data remain unchanged"
+    "Valid school-code requests now wait for administrator approval",
+    "Approved repeat users receive a clear user-already-exists message",
+    "Pending repeat requests report that approval is still pending",
+    "Accounts belonging to another school are rejected safely",
+    "Supabase errors are displayed as short readable messages"
   ],
-  "sha256": "AC1452A9369B435E14A809646976DF8FD1CB805CA2D552CAEA0F09FB649ECD53",
+  "sha256": "890459733BB1516FAA76F4C46B84B12523B027AA5E863F1D29D81B1EF03F6B45",
   "publishedAt": "2026-09-21"
 }
