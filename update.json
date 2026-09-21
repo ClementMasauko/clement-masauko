@@ -1,16 +1,15 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0.5",
+  "versionCode": 12,
+  "versionName": "2.0.6",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Exact unique teacher names in the published allocation are auto-approved",
-    "Exact student number and roster-name matches are auto-approved",
-    "Partial or ambiguous teacher matches remain pending for administrator review",
-    "Auto-approved teachers receive their published subject and class allocations",
-    "Unverified accounts cannot gain access from a first-name-only match"
+    "Supports the supplied day-section and open-section timetable PDF layouts",
+    "Matches timetable subject abbreviations to full subject-allocation names",
+    "Recovers missing class names from subject allocations",
+    "Keeps the complete timetable visible when a teacher profile has no matches"
   ],
-  "sha256": "CF5ABF2A83110666B3D3A1D6A9AEF550B6DC829CC887FEC669E42D8BA8C56462",
+  "sha256": "854A95D566A29BDC084ADEA3CD0AA05DB05EA878623150C4C66C4D58F5B396EC",
   "publishedAt": "2026-09-21"
 }
