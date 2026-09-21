@@ -1,16 +1,16 @@
 {
-  "versionCode": 10,
-  "versionName": "2.0.4",
+  "versionCode": 11,
+  "versionName": "2.0.5",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Valid school-code requests now wait for administrator approval",
-    "Approved repeat users receive a clear user-already-exists message",
-    "Pending repeat requests report that approval is still pending",
-    "Accounts belonging to another school are rejected safely",
-    "Supabase errors are displayed as short readable messages"
+    "Exact unique teacher names in the published allocation are auto-approved",
+    "Exact student number and roster-name matches are auto-approved",
+    "Partial or ambiguous teacher matches remain pending for administrator review",
+    "Auto-approved teachers receive their published subject and class allocations",
+    "Unverified accounts cannot gain access from a first-name-only match"
   ],
-  "sha256": "890459733BB1516FAA76F4C46B84B12523B027AA5E863F1D29D81B1EF03F6B45",
+  "sha256": "CF5ABF2A83110666B3D3A1D6A9AEF550B6DC829CC887FEC669E42D8BA8C56462",
   "publishedAt": "2026-09-21"
 }
