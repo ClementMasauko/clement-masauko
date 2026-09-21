@@ -1,16 +1,16 @@
 {
-  "versionCode": 8,
-  "versionName": "2.0.2",
+  "versionCode": 9,
+  "versionName": "2.0.3",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Upcoming classes now always show their class or form",
-    "Teacher and class details appear together instead of replacing one another",
-    "Day and time badges remain readable in device-controlled light mode",
-    "Startup screen now uses the professional blue app color",
-    "Sharper native startup mark across Android screen sizes"
+    "School creation is removed from ordinary user accounts",
+    "New users can only request membership using a private school code",
+    "Teacher and student roles remain subject to administrator approval",
+    "Direct school-creation RPC lockdown script added for Supabase",
+    "Existing administrator and school data remain unchanged"
   ],
-  "sha256": "DF4160B299E2A97A912309AA55249CCF1AF71C3D3210F8D2C4BA79EA7436C418",
+  "sha256": "AC1452A9369B435E14A809646976DF8FD1CB805CA2D552CAEA0F09FB649ECD53",
   "publishedAt": "2026-09-21"
 }
