@@ -1,15 +1,15 @@
 {
-  "versionCode": 15,
-  "versionName": "2.0.9",
+  "versionCode": 16,
+  "versionName": "2.0.10",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Imports all detected forms from master timetables by default",
-    "Reads all 100 periods from the corrected open-section timetable",
-    "Shows the number of selected forms and periods before import",
-    "Adds Select all and Clear selection controls for intentional partial imports"
+    "Correctly recognizes every full weekday name in open-section timetables",
+    "Distributes the 100 open periods as 20 periods on each weekday",
+    "Restores teacher matching for Wednesday and Thursday periods",
+    "Allows the final remaining timetable to be permanently deleted without recreation"
   ],
-  "sha256": "476E36625CBB28874F8BE7DA9F5C567571E8EC2DA8E0DE6EAE68A2705F615F58",
+  "sha256": "B559C9190B7F62FA3F89DCE45F907B526DA642D1789C40149D0A7B419739E354",
   "publishedAt": "2026-09-22"
 }
