@@ -1,15 +1,15 @@
 {
-  "versionCode": 14,
-  "versionName": "2.0.8",
+  "versionCode": 15,
+  "versionName": "2.0.9",
   "minimumVersionCode": 2,
   "required": false,
   "apkUrl": "https://raw.githubusercontent.com/ClementMasauko/clement-masauko/main/TimeTableMaster.apk",
   "notes": [
-    "Shows clear success or failure feedback when signing in or creating an account",
-    "Explains incorrect passwords and unconfirmed email accounts",
-    "Adds administrator controls for uploaded timetables, PDFs, allocations and school logos",
-    "Supports Trash restore and confirmed permanent deletion of stored timetable files"
+    "Imports all detected forms from master timetables by default",
+    "Reads all 100 periods from the corrected open-section timetable",
+    "Shows the number of selected forms and periods before import",
+    "Adds Select all and Clear selection controls for intentional partial imports"
   ],
-  "sha256": "DDD302AEFE393FA82FF735E555E6E93EA4F994A7F593C977EF3FEAA321487C1E",
+  "sha256": "476E36625CBB28874F8BE7DA9F5C567571E8EC2DA8E0DE6EAE68A2705F615F58",
   "publishedAt": "2026-09-22"
 }
